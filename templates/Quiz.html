@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Citizen Quiz</title>
+
+    <link rel="stylesheet" href="../static/css/bootstrap.css">
+
+
+    <script src="../../_Bootstrap/js/bootstrap.js"></script>
+    <script src="../static/js/bootstrap.js"></script>
+    <script src="../static/js/Quiz.js"></script>
+
+
+</head>
+<body class="bg-dark text-light">
+
+<div class="container">
+
+    <div class="col">
+        <div class="row p-3 mb-2 bg-success text-white d-flex justify-content-center" id="title_Div">
+
+
+            <div class="col"></div>
+            <div class="col">
+                <div class="row">
+                    <h3 class="display-3">Practice Quiz</h3>
+                </div>
+
+
+            </div>
+            <div class="col"></div>
+        </div>
+
+
+        <div class="row d-flex justify-content-center mb-3 mt-2" id="navigation_Div">
+            <div class="col text-center">
+                <button type="submit" class="btn btn-secondary" onclick="previous_question()">Previous</button>
+                <span id="Current Question Number"> 1 </span> / <span id="Total Questions Number"> </span>
+                <button type="button" class="btn btn-success" onclick="next_question()">Next</button>
+            </div>
+        </div>
+
+
+        <div class="row question_Div text-center">
+            <div class="col-2"></div>
+            <div class="col-8 display-6 d-inline align-middle bg-danger rounded-2 p-2">
+                <div id="Question Text"></div>
+                <div id="Question Text Spanish"></div>
+
+
+                <button type="button" class="btn btn-info" onclick="show_answer()">Show Answer</button>
+
+
+                <button type="button" class="btn btn-warning" onclick="show_spanish()">Traducir</button>
+
+
+            </div>
+            <div class="col-2">
+                <div class="row" id="Cheat Sheet Table" style="display: block;">
+                    <div class="col">
+                        <table class="text-center table table-dark rounded-2 border border-2">
+                            <tr>
+                                <th>English</th>
+                                <th>Espanol</th>
+                            </tr>
+                            <tr>
+                                <td>Who</td>
+                                <td>Quien</td>
+                            </tr>
+
+                            <tr>
+                                <td>What</td>
+                                <td>Que</td>
+                            </tr>
+                            <tr>
+                                <td>When</td>
+                                <td>Cuando</td>
+                            </tr>
+                            <tr>
+                                <td>Where</td>
+                                <td>Donde</td>
+                            </tr>
+                            <tr>
+                                <td>Why</td>
+                                <td>Por Que</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+        <div class="row text-center  mt-5">
+            <div class="col"></div>
+
+            <div class="col"></div>
+        </div>
+
+
+        <div class="row  mt-5">
+            <div class="col-3"></div>
+            <div class="col-6 bg-info rounded-2 text-center" id="Answer Div" style="display: none">
+                <span class="display-6 p-1" id="Answer Text"></span>
+
+
+                <span class="display-6 p-1" id="Answer Text Spanish" style="color:black"></span>
+
+
+            </div>
+            <div class="col-3"></div>
+
+        </div>
+
+
+    </div>
+
+
+    <script>
+
+        let total_question_number = Object.keys(quiz_data).length.toString();
+        let current_question_number = document.getElementById("Current Question Number");
+        let total_questions_number = document.getElementById("Total Questions Number");
+
+        let question_text_english = document.getElementById("Question Text");
+        let question_text_spanish = document.getElementById("Question Text Spanish");
+
+        let answer_div = document.getElementById("Answer Div");
+        let answer_text_div = document.getElementById("Answer Text");
+        let answer_text_spanish_div = document.getElementById("Answer Text Spanish");
+        let cheat_sheet = document.getElementById("Cheat Sheet Table")
+
+
+        window.onload = function () {
+            question_text_english.innerText = Object.keys(quiz_data)[0];
+            total_questions_number.innerText = total_question_number;
+            answer_text_div.innerText = Object.values(quiz_data)[0].toString();
+        }
+
+        let question_number = 1;
+        let index_number = 0
+
+        function update_text() {
+
+            let english_question = Object.keys(quiz_data)[index_number];
+            let spanish_question = Object.keys(quiz_data_spanish)[index_number];
+
+            let answer_text_english = Object.values(quiz_data)[index_number];
+            let answer_text_spanish = Object.values(quiz_data_spanish)[index_number];
+
+
+            current_question_number.innerText = question_number.toString();
+
+            question_text_english.innerText = english_question;
+            question_text_spanish.innerText = spanish_question;
+
+
+            //answer_text_english.innerText = Object.values(quiz_data)[index_number].toString();
+            answer_text_div.innerText = "";
+            for (let answer of answer_text_english) {
+                console.log(answer)
+                answer_text_div.innerText += answer + "\n";
+            }
+
+            answer_text_spanish_div.innerText = "";
+            for (let answer of answer_text_spanish) {
+                console.log(answer)
+                answer_text_spanish_div.innerText += answer + "\n";
+            }
+
+            question_text_spanish.style.display = "none";
+            answer_div.style.display = "none";
+        }
+
+        function next_question() {
+            if (question_number < 100) {
+
+                question_number++
+                index_number++
+                update_text()
+
+            }
+        }
+
+        function previous_question() {
+
+            if (index_number >= 1) {
+                question_number--
+                index_number--
+                update_text()
+            }
+
+        }
+
+        function show_answer() {
+
+
+            if (answer_div.style.display === "none") {
+                answer_div.style.display = "block";
+            } else {
+                answer_div.style.display = "none";
+            }
+        }
+
+
+        function show_spanish() {
+            console.log(Object.keys(quiz_data_spanish)[index_number]);
+
+
+            if (question_text_spanish.style.display === "none") {
+                question_text_spanish.style.display = "block";
+                //cheat_sheet.style.display = "block";
+            } else {
+                question_text_spanish.style.display = "none";
+                //cheat_sheet.style.display = "none";
+            }
+
+            question_text_spanish.innerText = Object.keys(quiz_data_spanish)[index_number];
+            question_text_spanish.style.color = "black";
+        }
+
+    </script>
+</div>
+
+</body>
+</html>

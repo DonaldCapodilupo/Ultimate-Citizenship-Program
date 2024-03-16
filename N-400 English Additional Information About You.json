@@ -1,0 +1,248 @@
+{
+  "Have you EVER claimed to be a U.S. citizen (in writing or any other way)?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER registered to vote in any Federal, state, or local election in the United States?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER voted in any Federal, state, or local election in the United States?": [
+    "Yes",
+    "No"
+  ],
+  "Do you now have, or did you EVER have, a hereditary title or an order of nobility in any foreign\ncountry?\nIf you answered \"Yes,\" are you willing to give up any inherited titles or orders of nobility that you\nhave in a foreign country at your naturalization ceremony?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER been declared legally incompetent or been confined to a mental institution?": [
+    "Yes",
+    "No"
+  ],
+  "Do you owe any overdue Federal, state, or local taxes?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER not filed a Federal, state, or local tax return since you became a lawful permanent\nresident?\nIf you answered \"Yes,\" did you consider yourself to be a \"non-U.S. resident\"?": [
+    "Yes",
+    "No"
+  ],
+  "Have you called yourself a \"non-U.S. resident\" on a Federal, state, or local tax return since you became a\nlawful permanent resident?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER been a member of, involved in, or in any way associated with, any organization,\nassociation, fund, foundation, party, club, society, or similar group in the United States or in any other\nlocation in the world? If you answered \"Yes,\" provide the information below. If you need extra space, attach the names of the other groups on\nadditional sheets of paper and provide any evidence to support your answers.": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER been a member of, or in any way associated (either directly or indirectly) with The Communist Party?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER been a member of, or in any way associated (either directly or indirectly) with any other totalitarian party?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER been a member of, or in any way associated (either directly or indirectly) with a terrorist organization?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER advocated (either directly or indirectly) the overthrow of any government by force or\nviolence?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER persecuted (either directly or indirectly) any person because of race, religion, national\norigin, membership in a particular social group, or political opinion?": [
+    "Yes",
+    "No"
+  ],
+  "Between March 23, 1933 and May 8, 1945, did you work for or associate in any way (either directly or\nindirectly) with The Nazi government of Germany?": [
+    "Yes",
+    "No"
+  ],
+  "Between March 23, 1933 and May 8, 1945, did you work for or associate in any way (either directly or\nindirectly) with Any government in any area occupied by, allied with, or established with the help of the Nazi\ngovernment of Germany?": [
+    "Yes",
+    "No"
+  ],
+  "Between March 23, 1933 and May 8, 1945, did you work for or associate in any way (either directly or\nindirectly) with Any German, Nazi, or S.S. military unit, paramilitary unit, self-defense unit, vigilante unit, citizen unit,\npolice unit, government agency or office, extermination camp, concentration camp, prisoner of war\ncamp, prison, labor camp, or transit camp?": [
+    "Yes",
+    "No"
+  ],
+  "Were you EVER involved in any way with any of the following": {
+    "Genocide": [
+      "Yes",
+      "No"
+    ],
+    "Torture": [
+      "Yes No"
+    ],
+    "Killing, or trying to kill, someone": [
+      "Yes No"
+    ],
+    "Badly hurting, or trying to hurt, a person on purpose?": [
+      "Yes No"
+    ],
+    "Forcing, or trying to force, someone to have any kind of sexual contact or relations?": [
+      "Yes No"
+    ],
+    "Not letting someone practice his or her religion": [
+      "Yes No"
+    ]
+  },
+  "Were you EVER a member of, or did you EVER serve in, help, or otherwise participate in, any of the\nfollowing groups:": {
+    "Military unit?": ["Yes","No"],
+    "Paramilitary unit (a group of people who act like a military group but are not part of the official\nmilitary)?": ["Yes","No"],
+    "Police unit?": ["Yes","No"],
+    "Self-defense unit?": ["Yes","No"],
+    "Vigilante unit (a group of people who act like the police, but are not part of the official police)?": ["Yes","No"],
+    "Rebel group": ["Yes","No"],
+    "Guerrilla group (a group of people who use weapons against or otherwise physically attack the\nmilitary, police, government, or other people)?": ["Yes","No"],
+    "Militia (an army of people, not part of the official military)?": ["Yes","No"],
+    "Insurgent organization (a group that uses weapons and fights against a government)?": ["Yes","No"]
+  },
+  "Were you EVER a worker, volunteer, or soldier, or did you otherwise EVER serve in any of the following": {
+    "Prison or jail?": ["Yes","No"],
+    "Prison camp?": ["Yes","No"],
+    "Detention facility (a place where people are forced to stay)?": ["Yes","No"],
+    "Labor camp (a place where people are forced to work)?": ["Yes","No"],
+    "Any other place where people were forced to stay?": ["Yes","No"]
+  },
+  "Were you EVER a part of any group, or did you EVER help any group, unit, or organization that used a\nweapon against any person, or threatened to do so?": {
+    "If you answered \"Yes,\" when you were part of this group, or when you helped this group, did you ever\nuse a weapon against another person?": ["Yes","No"],
+    "If you answered \"Yes,\" when you were part of this group, or when you helped this group, did you ever\ntell another person that you would use a weapon against that person?": ["Yes","No"]
+  },
+  "Did you EVER sell, give, or provide weapons to any person, or help another person sell, give, or provide\nweapons to any person?": {
+    "If you answered \"Yes,\" did you know that this person was going to use the weapons against another person?": ["Yes","No"],
+    "If you answered \"Yes,\" did you know that this person was going to sell or give the weapons to someone who was going to use them against another person?": ["Yes","No"]
+  },
+  "Did you EVER receive any type of military, paramilitary (a group of people who act like a military group\nbut are not part of the official military), or weapons training?": [
+    "Yes",
+    "No"
+  ],
+  "Did you EVER recruit (ask), enlist (sign up), conscript (require), or use any person under 15 years of age\nto serve in or help an armed force or group": [
+    "Yes",
+    "No"
+  ],
+  "Did you EVER use any person under 15 years of age to do anything that helped or supported people in\ncombat?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER committed, assisted in committing, or attempted to commit, a crime or offense for which\nyou were NOT arrested?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER been arrested, cited, or detained by any law enforcement officer (including any\nimmigration official or any official of the U.S. armed forces) for any reason?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER been charged with committing, attempting to commit, or assisting in committing a crime\nor offense?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER been convicted of a crime or offense?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER been placed in an alternative sentencing or a rehabilitative program (for example,\ndiversion, deferred prosecution, withheld adjudication, deferred adjudication)?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER received a suspended sentence, been placed on probation, or been paroled? If you answered \"Yes,\" have you completed the probation or parole?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER been in jail or prison? If you answered \"Yes,\" how long were you in jail or prison?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER": {
+    "Been a habitual drunkard?": ["Yes","No"],
+    "Been a prostitute, or procured anyone for prostitution?": ["Yes","No"],
+    "Sold or smuggled controlled substances, illegal drugs, or narcotics?": ["Yes","No"],
+    "Been married to more than one person at the same time?": ["Yes","No"],
+    "Married someone in order to obtain an immigration benefit?": ["Yes","No"],
+    "Helped anyone to enter, or try to enter, the United States illegally?": ["Yes","No"],
+    "Gambled illegally or received income from illegal gambling?": ["Yes","No"],
+    "Failed to support your dependents or to pay alimony?": ["Yes","No"],
+    "Made any misrepresentation to obtain any public benefit in the United States?": ["Yes","No"]
+  },
+  "Have you EVER given any U.S. Government officials any information or documentation that was false,\nfraudulent, or misleading?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER lied to any U.S. Government officials to gain entry or admission into the United States or\nto gain immigration benefits while in the United States?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER been removed, excluded, or deported from the United States?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER been ordered removed, excluded, or deported from the United States? ": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER been placed in removal, exclusion, rescission, or deportation proceedings?": [
+    "Yes",
+    "No"
+  ],
+  "Are removal, exclusion, rescission, or deportation proceedings (including administratively closed\nproceedings) currently pending against you?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER served in the U.S. armed forces?": [
+    "Yes",
+    "No"
+  ],
+  "Are you currently a member of the U.S. armed forces?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER been court-martialed, administratively separated, or disciplined, or have you received an\nother than honorable discharge, while in the U.S. armed forces?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER been discharged from training or service in the U.S. armed forces because you were an\nalien?": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER left the United States to avoid being drafted in the U.S. armed forces? ": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER applied for any kind of exemption from military service in the U.S. armed forces? ": [
+    "Yes",
+    "No"
+  ],
+  "Have you EVER deserted from the U.S. armed forces?": [
+    "Yes",
+    "No"
+  ],
+  "Are you a male who lived in the United States at any time between your 18th and 26th birthdays?\n(This does not include living in the United States as a lawful nonimmigrant.)": [
+    "Yes",
+    "No"
+  ],
+  "Do you support the Constitution and form of Government of the United States?": [
+    "Yes",
+    "No"
+  ],
+  "Do you understand the full Oath of Allegiance to the United States?": [
+    "Yes",
+    "No"
+  ],
+  "Are you willing to take the full Oath of Allegiance to the United States?": [
+    "Yes",
+    "No"
+  ],
+  "If the law requires it, are you willing to bear arms on behalf of the United States?": [
+    "Yes",
+    "No"
+  ],
+  "If the law requires it, are you willing to perform noncombatant services in the U.S. armed forces?": [
+    "Yes",
+    "No"
+  ],
+  "If the law requires it, are you willing to perform work of national importance under civilian direction?": [
+    "Yes",
+    "No"
+  ]
+}

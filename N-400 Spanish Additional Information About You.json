@@ -1,0 +1,306 @@
+{
+  "¿Ha declarado ALGUNA VEZ ser ciudadano de los EE.UU.(por escrito o en cualquier forma)?": [
+    "Yes",
+    "No"
+  ],
+  "¿Se ha registrado ALGUNA VEZ para votar en cualquier elección federal, estatal o local en los\nEstados Unidos": [
+    "Yes",
+    "No"
+  ],
+  "¿Ha votado ALGUNA VEZ en cualquier elección federal, estatal o local en los Estados\nUnidos?": [
+    "Yes",
+    "No"
+  ],
+  " ¿Tiene ahora o ALGUNA VEZ ha tenido un título hereditario o una orden de nobleza de\ncualquier país extranjero? ¿Si respondió “Si,” está dispuesto(a) a renunciar a cualquier título heredado u orden de\nnobleza de un país extranjero en su ceremonia de naturalización?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ lo han declarado legalmente incompetente o ha sido confinado a una\ninstitución para enfermos mentales?": [
+    "Yes",
+    "No"
+  ],
+  "¿Debe algún impuesto atrasado Federal, Estatal, o local? ": [
+    "Yes",
+    "No"
+  ],
+  " Desde que se convirtió en Residente Permanente ¿ALGUNA VEZ no ha declarado\nimpuestos Federales, estatales, o locales? ¿Si su respuesta es “Si,” se consideraba usted un “no-residente” de los EE.UU.?": [
+    "Yes",
+    "No"
+  ],
+  "Desde que se convirtió en Residente Permanente ¿Se ha declarado una persona “no-residente”\nde los EE.UU. en una declaración de impuestos Federales, estatales, o locales?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ ha sido miembro de, involucrado con, o asociado de alguna manera con\nalguna organización, asociación, fondo, fundación, partido, club, sociedad, o grupo similar en los\nEstados Unidos o en cualquier otra parte del mundo?": [
+    "Yes",
+    "No"
+  ],
+  "¿Ha sido ALGUNA VEZ miembro de, o de alguna manera asociado (directamente o indirectamente) con El partido comunista?": [
+    "Yes",
+    "No"
+  ],
+  "¿Ha sido ALGUNA VEZ miembro de, o de alguna manera asociado (directamente o indirectamente) con Cualquier partido totalitario?": [
+    "Yes",
+    "No"
+  ],
+  "¿Ha sido ALGUNA VEZ miembro de, o de alguna manera asociado (directamente o indirectamente) con Una organización terrorista?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ ha abogado (directamente o indirectamente) por el derrumbamiento de\nalgún gobierno con el uso de fuerza o violencia?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ ha perseguido (directamente o indirectamente) a alguna persona a causa de\nsu raza, religión, origen nacional, pertenencia a un grupo social u opinión política?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ estuvo involucrado en cualquier forma con cualquiera de los siguientes": {
+    "¿El Genocidio? ": [
+      "Yes",
+      "No"
+    ],
+    "¿La Tortura? ": [
+      "Yes",
+      "No"
+    ],
+    "¿Matar o intentar matar a alguien? ": [
+      "Yes",
+      "No"
+    ],
+    "¿Lastimar fuertemente o intentar lastimar a una persona a propósito?": [
+      "Yes",
+      "No"
+    ],
+    "¿Forzar o intentar forzar a alguien a tener cualquier tipo de contacto o relación sexual? ": [
+      "Yes",
+      "No"
+    ],
+    "¿No permitir a alguien practicar su religión?": [
+      "Yes",
+      "No"
+    ]
+  },
+  "¿ALGUNA VEZ fue miembro de, o ALGUNA VEZ sirvió en, ayudo a, o de otra manera participo en\ncualquiera de los siguientes grupos": {
+    "¿Unidad militar? ": [
+      "Yes",
+      "No"
+    ],
+    "¿Unidad paramilitar? (un grupo de personas que actúan como un grupo militar, pero no\nson parte del militar oficial)?": [
+      "Yes",
+      "No"
+    ],
+    "¿Unidad de policía?": [
+      "Yes",
+      "No"
+    ],
+    "¿Unidad de defensa propia?": [
+      "Yes",
+      "No"
+    ],
+    "¿Unidad vigilante? (un grupo de personas que actúan como la policía pero no son parte de\nla policía oficial)?": [
+      "Yes",
+      "No"
+    ],
+    "¿Grupo de Rebeldes? ": [
+      "Yes",
+      "No"
+    ],
+    "¿Grupo de Guerrillas? (un grupo de personas que utilizan armas en contra de, o de otra\nmanera atacan físicamente a el militar, la policía, el gobierno, u otras personas)?": [
+      "Yes",
+      "No"
+    ],
+    "¿Milicia? (un ejército de personas, que no es parte del militar oficial)?": [
+      "Yes",
+      "No"
+    ],
+    "¿Organización Insurgente? (un grupo que utiliza armas y lucha en contra de un gobierno)?": [
+      "Yes",
+      "No"
+    ]
+  },
+  "¿ALGUNA VEZ fue un trabajador, voluntario, soldado o de otra manera ALGUNA VEZ\nsirvió en cualquiera de los siguientes": {
+    "¿Prisión o cárcel? ": [
+      "Yes",
+      "No"
+    ],
+    "¿Campo de Prisión? ": [
+      "Yes",
+      "No"
+    ],
+    "¿Centro de Detención? (un lugar en donde las personas son forzados a permanecer)?": [
+      "Yes",
+      "No"
+    ],
+    "¿Campo de Trabajos Forzados? (un lugar en donde las personas son forzados a trabajar)?": [
+      "Yes",
+      "No"
+    ],
+    "¿Algún otro lugar en donde las personas fueron forzadas a permanecer?": [
+      "Yes",
+      "No"
+    ]
+  },
+  "¿ALGUNA VEZ fue parte de algún grupo o ALGUNA VEZ ayudo a algún grupo, unidad u\norganización que utilizo una arma en contra de alguna persona o amenazó con hacerlo?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ vendió, dio, o proporciono armas a cualquier persona, o ayudo a otra persona Si\na vender, dar o proporcionar armas a alguna persona?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ recibió algún tipo de entrenamiento militar, paramilitar (grupo de personas\nque actúan como un grupo militar pero no es parte del militar oficial) o para el uso de armas?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ recluto (pregunto), alisto (suscribió), conscripto (requirió) o utilizo a alguna\npersona menor de 15 años de edad para servir o ayudar en una fuerza armada o grupo?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ utilizo a cualquier persona menor de 15 años de edad para hacer cualquier\ncosa que ayudará o apoyara a las personas en combate?": [
+    "Yes",
+    "No"
+  ],
+  " ¿ALGUNA VEZ ha cometido, asistido en cometer, o intentado cometer, un crimen o delito\npor el cual NO fue arrestado?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ ha sido arrestado, citado, o detenido por algún oficial de la ley (incluso\nalgún agente de inmigración u oficial de las fuerzas armadas de los EE.UU.) por cualquier razón?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ ha sido acusado de cometer, intentar cometer, o asistir en cometer un crimen\nu delito?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ ha sido condenado por un crimen u ofensa? ": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ lo han puesto en una sentencia alternativa o un programa de rehabilitación\n(e.g., desvió, proceso diferido, adjudicación suspendida, o adjudicación diferida.)?": [
+    "Yes",
+    "No"
+  ],
+  "¿Alguna vez ha recibido una sentencia suspendida, libertad provisoria, o libertad condicional? ¿Si su respuesta es “Si,” ha terminado su libertad provisoria o libertad condicional? ": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ ha estado en la cárcel o prisión? ¿Si su respuesta es “Si” cuanto tiempo estuvo en la cárcel o prisión?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ:": {
+    "Ha sido alcohólico habitual? ": [
+      "Yes",
+      "No"
+    ],
+    "Ha sido prostituta o recurrido a alguien con fines de prostitución? ": [
+      "Yes",
+      "No"
+    ],
+    "Ha vendido o contrabandeado sustancias controladas, drogas ilegales o narcóticos?": [
+      "Yes",
+      "No"
+    ],
+    "Ha estado casado con más de una persona al mismo tiempo?": [
+      "Yes",
+      "No"
+    ],
+    "Se ha casado con alguien para obtener un beneficio de inmigración? ": [
+      "Yes",
+      "No"
+    ],
+    "Ha ayudado a alguna persona a entrar o intentar entrar a los Estado Unidos ilegalmente? ": [
+      "Yes",
+      "No"
+    ],
+    "Ha participado en juego ilegal o recibido ingresos procedentes de algún juego ilegal?": [
+      "Yes",
+      "No"
+    ],
+    "Ha dejado de dar apoyo económico o pensión alimenticia a sus dependientes? ": [
+      "Yes",
+      "No"
+    ],
+    "Ha dado una declaración falsa para obtener cualquier beneficio público en los Estados\nUnidos?": [
+      "Yes",
+      "No"
+    ]
+  },
+  "¿ALGUNA VEZ ha dado alguna información o documento falso, fraudulento o para engañar a\nalgún oficial del gobierno de los EE.UU.?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ ha mentido a algún oficial del gobierno de los EE.UU. para entrar o ser admitido\na los Estados Unidos o para recibir beneficios de inmigración en los Estados Unidos?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ lo han removido, excluido o deportado de los Estados Unidos?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ ha recibido una orden para ser removido, excluido o deportado de los Estados\nUnidos?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ ha sido puesto en procedimientos de remoción, rescisión, exclusión o\ndeportación?": [
+    "Yes",
+    "No"
+  ],
+  "¿Existe actualmente procedimientos de remoción, exclusión, rescisión, o deportación en su contra\n(incluso procedimientos que han sido administrativamente cerrados)?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ ha servido en las Fuerza Armadas de los EE.UU.? ": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ lo han llamado a una corte marcial, administrativamente separado, o\ndisciplinado, o ha recibido un despido que no sea honorable, mientras estaba en las fuerzas armadas de\nlos EE.UU.?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ ha sido despedido del entrenamiento o servicio en las Fuerzas Armadas de los\nEE.UU. por no ser extranjero?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ se ha ido de los Estados Unidos para evitar ser reclutado a las Fuerzas Armadas\nde los EE.UU.?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ ha solicitado cualquier exención del servicio militar de las Fuerzas Armadas de\nlos EE.UU.?": [
+    "Yes",
+    "No"
+  ],
+  "¿ALGUNA VEZ ha desertado de las Fuerzas Armadas de los EE.UU.?": [
+    "Yes",
+    "No"
+  ],
+  "¿Es usted un varón que vivió en los EE.UU. en cualquier momento entre sus 18 y 26 años de\nedad? (Esto no incluye tiempo en el que usted vivió legalmente como no-migrante.) Si su respuesta es “Si,” ¿cuando se registró para el Servicio Selectivo? Provea la información\nabajo": [
+    "Yes",
+    "No"
+  ],
+  "¿Apoya usted la Constitución y el sistema de gobierno de los Estados Unidos? ": [
+    "Yes",
+    "No"
+  ],
+  "¿Comprende usted el juramento completo de lealtad de los Estados Unidos?": [
+    "Yes",
+    "No"
+  ],
+  "¿Está usted dispuesto a tomar el juramento completo de lealtad de los Estados Unidos?": [
+    "Yes",
+    "No"
+  ],
+  "¿Si la ley lo requiere, está dispuesto a tomar armas en nombre de los Estados Unidos?": [
+    "Yes",
+    "No"
+  ],
+  "¿Si la ley lo requiere, está dispuesto a prestar servicios como no combatiente en las\nFuerzas Armadas de los EE.UU.?": [
+    "Yes",
+    "No"
+  ],
+  "¿Si la ley lo requiere está dispuesto a realizar trabajo de importancia nacional bajo\ndirección civil?": [
+    "Yes",
+    "No"
+  ]
+}
