@@ -15,7 +15,7 @@ const quiz_data = {
     "What do we call the first ten amendments to the Constitution?": [
         "The Bill of Rights"
     ],
-    "What is one right or freedom from the First Amendment?*": [
+    "What is one right or freedom from the First Amendment?": [
         "Speech",
         "Religion",
         "Assembly",
@@ -26,106 +26,101 @@ const quiz_data = {
         "Twenty-Seven (27)"
     ],
     "What did the Declaration of Independence do?": [
-        "announced our independence (from Great Britain)",
-        "declared our independence (from Great Britain)",
-        "said that the United States is free (from Great Britain)"
+        "Declared our independence (from Great Britain)",
     ],
     "What are two rights in the Declaration of Independence?": [
-        "life",
-        "liberty",
-        "pursuit of happiness"
+        "Life",
+        "Liberty",
+        "The Pursuit of Happiness"
     ],
     "What is freedom of religion?": [
         "You can practice any religion, or not practice a religion."
     ],
-    "What is the economic system in the United States?*": [
-        "capitalist economy",
-        "market economy"
+    "What is the economic system in the United States?": [
+        "Capitalist Economy",
+        "Market Economy"
     ],
-    "What is the \"rule of law\"?": [
+    "What is the \"Rule of Law\"?": [
         "Everyone must follow the law.",
         "Leaders must obey the law.",
         "Government must obey the law.",
         "No one is above the law."
     ],
-    "Name one branch or part of the government.*": [
-        "Congress",
-        "legislative",
-        "President",
-        "executive",
-        "the courts",
-        "judicial"
+    "Name one branch or part of the government.": [
+        "Executive (The President)",
+        "Legislative (Congress)",
+        "Judicial (The Courts)",
     ],
     "What stops one branch of government from becoming too powerful?": [
-        "checks and balances",
-        "separation of powers"
+        "Checks and Balances",
+        "Separation of powers"
     ],
     "Who is in charge of the executive branch?": [
-        "the President"
+        "The President"
     ],
     "Who makes federal laws?": [
         "Congress",
-        "Senate and House (of Representatives)",
-        "(U.S. or national) legislature"
     ],
-    "What are the two parts of the U.S. Congress?*": [
-        "the Senate and House (of Representatives)"
+    "What are the two parts of the U.S. Congress?": [
+        "The Senate and House of Representatives"
     ],
     "How many U.S. Senators are there?": [
-        "one hundred (100)"
+        "One Hundred (100)"
     ],
     "We elect a U.S. Senator for how many years?": [
-        "six (6)"
+        "Six (6)"
     ],
-    "Who is one of your state's U.S. Senators now?*": [
-        "Answers will vary. [District of Columbia residents and residents of U.S. territories should answer that D.C. (or the territory where the applicant lives) has no U.S. Senators.]"
+    "Who is one of your state's U.S. Senators now?": [
+        "Elizabeth Warren",
+        "Ed Markey"
     ],
     "The House of Representatives has how many voting members?": [
-        "four hundred thirty-five (435)"
+        "Four Hundred, Thirty-Five (435)"
     ],
     "We elect a U.S. Representative for how many years?": [
-        "two (2)"
+        "Two (2) Years"
     ],
     "Name your U.S. Representative.": [
-        "Answers will vary. [Residents of territories with nonvoting Delegates or Resident Commissioners may provide the name of that Delegate or Commissioner. Also acceptable is any statement that the territory has no (voting) Representatives in Congress.]"
-    ],
+        "Katherine Clark",
+        "Richard Neal",
+        "Stephen Lynch"
+        ],
     "Who does a U.S. Senator represent?": [
-        "all people of the state"
+        "All people of the State."
     ],
     "Why do some states have more Representatives than other states?": [
         "(because of) the state's population",
-        "(because) they have more people",
-        "(because) some states have more people"
+        "Number of Citizens. More Citizens = More Representatives",
     ],
     "We elect a President for how many years?": [
-        "four (4)"
+        "Four (4)"
     ],
-    "In what month do we vote for President?*": [
+    "In what month do we vote for President?": [
         "November"
     ],
-    "What is the name of the President of the United States now?*": [
-        "Visit uscis.gov/citizenship/testupdates for the name of the President of the United States."
+    "What is the name of the President of the United States now?": [
+        "Joe Biden"
     ],
     "What is the name of the Vice President of the United States now?": [
-        "Visit uscis.gov/citizenship/testupdates for the name of the Vice President of the United States."
+        "Kamala Harris"
     ],
     "If the President can no longer serve, who becomes President?": [
-        "the Vice President"
+        "The Vice President"
     ],
     "If both the President and the Vice President can no longer serve, who becomes President?": [
-        "the Speaker of the House"
+        "The Speaker of the House"
     ],
     "Who is the Commander in Chief of the military?": [
-        "the President"
+        "The President"
     ],
     "Who signs bills to become laws?": [
-        "the President"
+        "The President"
     ],
     "Who vetoes bills?": [
-        "the President"
+        "The President"
     ],
     "What does the President's Cabinet do?": [
-        "advises the President"
+        "Advises the President"
     ],
     "What are two Cabinet-level positions?": [
         "Secretary of Agriculture",
@@ -146,47 +141,48 @@ const quiz_data = {
         "Vice President"
     ],
     "What does the judicial branch do?": [
-        "reviews laws",
-        "explains laws",
-        "resolves disputes (disagreements)",
-        "decides if a law goes against the Constitution"
+        "Reviews laws",
+        "Explains laws",
+        "Resolves disputes (disagreements)",
+        "Decides if a law goes against the Constitution"
     ],
     "What is the highest court in the United States?": [
-        "the Supreme Court"
+        "The Supreme Court"
     ],
     "How many justices are on the Supreme Court?": [
-        "Visit uscis.gov/citizenship/testupdates for the number of justices on the Supreme Court."
+        "Nine (9)"
     ],
     "Who is the Chief Justice of the United States now?": [
-        "Visit uscis.gov/citizenship/testupdates for the name of the Chief Justice of the United States."
+        "John Roberts "
     ],
     "Under our Constitution, some powers belong to the federal government. What is one power of the federal government?": [
-        "to print money",
-        "to declare war",
-        "to create an army",
-        "to make treaties"
+        "To print money",
+        "To declare war",
+        "To create an army",
+        "To make treaties"
     ],
     "Under our Constitution, some powers belong to the states. What is one power of the states?": [
-        "provide schooling and education",
-        "provide protection (police)",
-        "provide safety (fire departments)",
-        "give a driver's license",
-        "approve zoning and land use"
+        "Provide schooling and education",
+        "Provide protection (police)",
+        "Provide safety (fire departments)",
+        "Give a driver's license",
+        "Approve zoning and land use"
+
     ],
     "Who is the Governor of your state now?": [
-        "Answers will vary. [District of Columbia residents should answer that D.C. does not have a Governor.]"
+        "Maura Healey"
     ],
-    "What is the capital of your state?*": [
-        "Answers will vary. [District of Columbia residents should answer that D.C. is not a state and does not have a capital. Residents of U.S. territories should name the capital of the territory.]"
+    "What is the capital of your state?": [
+        "Boston"
     ],
-    "What are the two major political parties in the United States?*": [
+    "What are the two major political parties in the United States?": [
         "Democratic and Republican"
     ],
     "What is the political party of the President now?": [
-        "Visit uscis.gov/citizenship/testupdates for the political party of the President."
+        "Democrat"
     ],
     "What is the name of the Speaker of the House of Representatives now?": [
-        "Visit uscis.gov/citizenship/testupdates for the name of the Speaker of the House of Representatives."
+        "Mike Johnson"
     ],
     "There are four amendments to the Constitution about who can vote. Describe one of them.": [
         "Citizens eighteen (18) and older (can vote).",
@@ -194,63 +190,63 @@ const quiz_data = {
         "Any citizen can vote. (Women and men can vote.)",
         "A male citizen of any race (can vote)."
     ],
-    "What is one responsibility that is only for United States citizens?*": [
-        "serve on a jury",
-        "vote in a federal election"
+    "What is one responsibility that is only for United States citizens?": [
+        "Serve on a jury",
+        "Vote in a federal election"
     ],
     "Name one right only for United States citizens.": [
-        "vote in a federal election",
-        "run for federal office"
+        "Vote in a federal election",
+        "Run for federal office"
     ],
     "What are two rights of everyone living in the United States?": [
-        "freedom of expression",
-        "freedom of speech",
-        "freedom of assembly",
-        "freedom to petition the government",
-        "freedom of religion",
-        "the right to bear arms"
+        "Freedom of Speech",
+        "Freedom of Religion",
+        "Freedom of Expression",
+        "Freedom of Assembly",
+        "Freedom to Petition the Government",
+        "The Right to Bear Arms"
     ],
     "What do we show loyalty to when we say the Pledge of Allegiance?": [
-        "the United States",
-        "the flag"
+        "The United States",
+        "The Flag"
     ],
     "What is one promise you make when you become a United States citizen?": [
+        "be loyal to the United States",
         "give up loyalty to other countries",
         "defend the Constitution and laws of the United States",
         "obey the laws of the United States",
         "serve in the U.S. military (if needed)",
-        "serve (do important work for) the nation (if needed)",
-        "be loyal to the United States"
+        "serve (do important work for) the nation (if needed)"
     ],
-    "How old do citizens have to be to vote for President?*": [
-        "eighteen (18) and older"
+    "How old do citizens have to be to vote for President?": [
+        "Eighteen (18) and older"
     ],
     "What are two ways that Americans can participate in their democracy?": [
-        "vote",
-        "join a political party",
-        "help with a campaign",
-        "join a civic group",
-        "join a community group",
-        "give an elected official your opinion on an issue",
-        "call Senators and Representatives",
-        "publicly support or oppose an issue or policy",
-        "run for office",
-        "write to a newspaper"
+        "Vote",
+        "Run for office",
+        "Join a political party",
+        "Help with a campaign",
+        "Join a civic group",
+        "Join a community group",
+        "Give an elected official your opinion on an issue",
+        "Call Senators and Representatives",
+        "Publicly support or oppose an issue or policy",
+        "Write to a newspaper"
     ],
-    "When is the last day you can send in federal income tax forms?*": [
+    "When is the last day you can send in federal income tax forms?": [
         "April 15"
     ],
     "When must all men register for the Selective Service?": [
-        "at age eighteen (18)",
-        "between eighteen (18) and twenty-six (26)"
+        "At age eighteen (18)",
+        "Between eighteen (18) and twenty-six (26)"
     ],
     "What is one reason colonists came to America?": [
-        "freedom",
-        "political liberty",
-        "religious freedom",
-        "economic opportunity",
-        "practice their religion",
-        "escape persecution"
+        "Freedom",
+        "Political Liberty",
+        "Religious Freedom",
+        "Economic Opportunity",
+        "Practice their Religion",
+        "Escape Persecution"
     ],
     "Who lived in America before the Europeans arrived?": [
         "American Indians",
@@ -258,12 +254,12 @@ const quiz_data = {
     ],
     "What group of people was taken to America and sold as slaves?": [
         "Africans",
-        "people from Africa"
+        "People from Africa"
     ],
     "Why did the colonists fight the British?": [
-        "because of high taxes (taxation without representation)",
-        "because the British army stayed in their houses (boarding, quartering)",
-        "because they didn't have self-government"
+        "Because of high taxes (taxation without representation)",
+        "Because the British army stayed in their houses (boarding, quartering)",
+        "Because they didn't have self-government"
     ],
     "Who wrote the Declaration of Independence?": [
         "(Thomas) Jefferson"
@@ -301,15 +297,15 @@ const quiz_data = {
     ],
     "What is one thing Benjamin Franklin is famous for?": [
         "U.S. diplomat",
-        "oldest member of the Constitutional Convention",
-        "first Postmaster General of the United States",
-        "writer of \"Poor Richard's Almanac\"",
-        "started the first free libraries"
+        "Oldest member of the Constitutional Convention",
+        "First Postmaster General of the United States",
+        "Writer of \"Poor Richard's Almanac\"",
+        "Started the first free libraries"
     ],
     "Who is the \"Father of Our Country\"?": [
         "(George) Washington"
     ],
-    "Who was the first President?*": [
+    "Who was the first President?": [
         "(George) Washington"
     ],
     "What territory did the United States buy from France in 1803?": [
@@ -323,30 +319,27 @@ const quiz_data = {
         "Spanish-American War"
     ],
     "Name the U.S. war between the North and the South.": [
-        "the Civil War",
-        "the War between the States"
+        "The Civil War",
+        "The War between the States"
     ],
     "Name one problem that led to the Civil War.": [
-        "slavery",
-        "economic reasons",
-        "states' rights"
+        "Slavery",
+        "Economic reasons",
+        "States' rights"
     ],
-    "What was one important thing that Abraham Lincoln did?*": [
-        "freed the slaves (Emancipation Proclamation)",
-        "saved (or preserved) the Union",
-        "led the United States during the Civil War"
+    "What was one important thing that Abraham Lincoln did?": [
+        "Freed the slaves (Emancipation Proclamation)",
+        "Saved (or preserved) the Union",
+        "Led the United States during the Civil War"
     ],
     "What did the Emancipation Proclamation do?": [
-        "freed the slaves",
-        "freed slaves in the Confederacy",
-        "freed slaves in the Confederate states",
-        "freed slaves in most Southern states"
+        "Freed the slaves",
     ],
     "What did Susan B. Anthony do?": [
-        "fought for women's rights",
-        "fought for civil rights"
+        "Fought for civil rights",
+        "Fought for women's rights"
     ],
-    "Name one war fought by the United States in the 1900s.*": [
+    "Name one war fought by the United States in the 1900s.": [
         "World War I",
         "World War II",
         "Korean War",
@@ -369,11 +362,11 @@ const quiz_data = {
         "Communism"
     ],
     "What movement tried to end racial discrimination?": [
-        "civil rights (movement)"
+        "Civil Rights (movement)"
     ],
-    "What did Martin Luther King, Jr. do?*": [
-        "fought for civil rights",
-        "worked for equality for all Americans"
+    "What did Martin Luther King, Jr. do?": [
+        "Fought for civil rights",
+        "Worked for equality for all Americans"
     ],
     "What major event happened on September 11, 2001, in the United States?": [
         "Terrorists attacked the United States."
@@ -440,26 +433,26 @@ const quiz_data = {
         "New Mexico",
         "Texas"
     ],
-    "What is the capital of the United States?*": [
+    "What is the capital of the United States?": [
         "Washington, D.C."
     ],
-    "Where is the Statue of Liberty?*": [
+    "Where is the Statue of Liberty?": [
         "New York (Harbor)",
         "Liberty Island"
     ],
     "Why does the flag have 13 stripes?": [
-        "because there were 13 original colonies",
-        "because the stripes represent the original colonies"
+        "Because there were 13 original colonies",
+        "Because the stripes represent the original colonies"
     ],
-    "Why does the flag have 50 stars?*": [
-        "because there is one star for each state",
-        "because each star represents a state",
-        "because there are 50 states"
+    "Why does the flag have 50 stars?": [
+        "Because there is one star for each state",
+        "Because each star represents a state",
+        "Because there are 50 states"
     ],
     "What is the name of the national anthem?": [
         "The Star-Spangled Banner"
     ],
-    "When do we celebrate Independence Day?*": [
+    "When do we celebrate Independence Day?": [
         "July 4"
     ],
     "Name two national U.S. holidays.": [
@@ -496,7 +489,7 @@ const quiz_data_spanish = {
     "¿Con qué nombre se conocen las primeras diez enmiendas a la Constitución?": [
         "la Carta de Derechos"
     ],
-    "¿Cuál es un derecho o libertad que la Primera Enmienda garantiza?*": [
+    "¿Cuál es un derecho o libertad que la Primera Enmienda garantiza?": [
         "expresión",
         "religión",
         "reunión",
@@ -519,7 +512,7 @@ const quiz_data_spanish = {
     "¿En qué consiste la libertad de religión?": [
         "Se puede practicar cualquier religión o no practicar ninguna."
     ],
-    "¿Cuál es el sistema económico de los Estados Unidos?*": [
+    "¿Cuál es el sistema económico de los Estados Unidos?": [
         "economía capitalista",
         "economía de mercado"
     ],
@@ -549,7 +542,7 @@ const quiz_data_spanish = {
         "el Senado y la Cámara (de Representantes)",
         "la legislatura (nacional o de los Estados Unidos)"
     ],
-    "¿Cuáles son las dos partes que integran el Congreso de los Estados Unidos?*": [
+    "¿Cuáles son las dos partes que integran el Congreso de los Estados Unidos?": [
         "el Senado y la Cámara (de Representantes)"
     ],
     "¿Cuántos senadores de los Estados Unidos hay?": [
@@ -581,10 +574,10 @@ const quiz_data_spanish = {
     "¿De cuántos años es el término de elección de un presidente?": [
         "cuatro (4)"
     ],
-    "¿En qué mes votamos por un nuevo presidente?*": [
+    "¿En qué mes votamos por un nuevo presidente?": [
         "noviembre"
     ],
-    "¿Cómo se llama el actual Presidente de los Estados Unidos?*": [
+    "¿Cómo se llama el actual Presidente de los Estados Unidos?": [
         "Visite uscis.gov/es/ciudadania/actualizacionesalexamen para saber el nombre del Presidente de Estados"
     ],
     "¿Cómo se llama el actual Vicepresidente de los Estados Unidos?": [
@@ -657,10 +650,10 @@ const quiz_data_spanish = {
     "¿Quién es el gobernador actual de su estado?": [
         "Las respuestas variarán. [Los residentes del Distrito de Columbia deben decir “no tenemos gobernador”]."
     ],
-    "¿Cuál es la capital de su estado?*": [
+    "¿Cuál es la capital de su estado?": [
         "Las respuestas variarán. [Los residentes del Distrito de Columbia deben contestar que el D.C. no es estado y"
     ],
-    "¿Cuáles son los dos principales partidos políticos de los Estados Unidos?*": [
+    "¿Cuáles son los dos principales partidos políticos de los Estados Unidos?": [
         "Demócrata y Republicano"
     ],
     "¿Cuál es el partido político del Presidente actual?": [
@@ -675,7 +668,7 @@ const quiz_data_spanish = {
         "Cualquier ciudadano puede votar. (Tanto mujeres como hombres pueden votar).",
         "Un hombre ciudadano de cualquier raza (puede votar)."
     ],
-    "¿Cuál es una responsabilidad que corresponde sólo a los ciudadanos de los Estados Unidos?*": [
+    "¿Cuál es una responsabilidad que corresponde sólo a los ciudadanos de los Estados Unidos?": [
         "prestar servicio en un jurado",
         "votar en una elección federal"
     ],
@@ -703,7 +696,7 @@ const quiz_data_spanish = {
         "prestar servicio a (realizar trabajo importante para) la nación (de ser necesario)",
         "ser leal a los Estados Unidos"
     ],
-    "¿Cuántos años tienen que tener los ciudadanos para votar por el Presidente?*": [
+    "¿Cuántos años tienen que tener los ciudadanos para votar por el Presidente?": [
         "dieciocho (18) años en adelante"
     ],
     "¿Cuáles son dos maneras mediante las cuales los ciudadanos americanos pueden participar en su": [
@@ -718,7 +711,7 @@ const quiz_data_spanish = {
         "postularse a un cargo político",
         "enviar una carta o mensaje a un periódico"
     ],
-    "¿Cuál es la fecha límite para enviar la declaración federal de impuestos sobre ingresos?*": [
+    "¿Cuál es la fecha límite para enviar la declaración federal de impuestos sobre ingresos?": [
         "el 15 de abril"
     ],
     "¿Cuándo deben inscribirse todos los hombres en el Servicio Selectivo?": [
@@ -790,7 +783,7 @@ const quiz_data_spanish = {
     "¿Quién se conoce como el “Padre de Nuestra Nación”?": [
         "(George) Washington"
     ],
-    "¿Quién fue el primer Presidente?*": [
+    "¿Quién fue el primer Presidente?": [
         "(George) Washington"
     ],
     "¿Qué territorio compró Estados Unidos a Francia en 1803?": [
@@ -812,7 +805,7 @@ const quiz_data_spanish = {
         "razones económicas",
         "derechos de los estados"
     ],
-    "¿Cuál fue una cosa importante que hizo Abraham Lincoln?*": [
+    "¿Cuál fue una cosa importante que hizo Abraham Lincoln?": [
         "liberó a los esclavos (Proclamación de la Emancipación)",
         "salvó (o preservó) la Unión",
         "presidió los Estados Unidos durante la Guerra Civil"
@@ -827,7 +820,7 @@ const quiz_data_spanish = {
         "luchó por los derechos de la mujer",
         "luchó por los derechos civiles"
     ],
-    "Mencione una guerra durante los años 1900 en la que peleó los Estados Unidos.*": [
+    "Mencione una guerra durante los años 1900 en la que peleó los Estados Unidos.": [
         "la Primera Guerra Mundial",
         "la Segunda Guerra Mundial",
         "la Guerra de Corea",
@@ -852,7 +845,7 @@ const quiz_data_spanish = {
     "¿Qué movimiento trató de poner fn a la discriminación racial?": [
         "(el movimiento de) derechos civiles"
     ],
-    "¿Qué hizo Martin Luther King, Jr.?*": [
+    "¿Qué hizo Martin Luther King, Jr.?": [
         "luchó por los derechos civiles",
         "trabajó por la igualdad de todos los ciudadanos americanos"
     ],
@@ -921,10 +914,10 @@ const quiz_data_spanish = {
         "Nuevo México",
         "Texas"
     ],
-    "¿Cuál es la capital de los Estados Unidos?*": [
+    "¿Cuál es la capital de los Estados Unidos?": [
         "Washington, D.C."
     ],
-    "¿Dónde está la Estatua de la Libertad?*": [
+    "¿Dónde está la Estatua de la Libertad?": [
         "(el puerto de) Nueva York",
         "Liberty Island",
         "[Otras respuestas aceptables son Nueva Jersey, cerca de la Ciudad de Nueva York y (el Río) Hudson]."
@@ -933,7 +926,7 @@ const quiz_data_spanish = {
         "porque representan las 13 colonias originales",
         "porque las franjas representan las colonias originales"
     ],
-    "¿Por qué hay 50 estrellas en la bandera?*": [
+    "¿Por qué hay 50 estrellas en la bandera?": [
         "porque hay una estrella por cada estado",
         "porque cada estrella representa un estado",
         "porque hay 50 estados"
@@ -941,7 +934,7 @@ const quiz_data_spanish = {
     "¿Cómo se llama el himno nacional?": [
         "The Star-Spangled Banner"
     ],
-    "¿Cuándo celebramos el Día de la Independencia?*": [
+    "¿Cuándo celebramos el Día de la Independencia?": [
         "el 4 de julio"
     ],
     "Mencione dos días feriados nacionales de los Estados Unidos.": [

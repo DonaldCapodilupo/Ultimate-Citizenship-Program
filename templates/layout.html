@@ -1,0 +1,31 @@
+{% block doc %}
+    {% block html %}
+        {% block html_attribs %}
+            <html lang="en">
+        {% endblock %}
+
+        {% block head %}
+            <meta charset="UTF-8">
+            <link rel="stylesheet" href="../static/css/bootstrap.css">
+
+            <script src="../static/js/bootstrap.js"></script>
+
+        {% endblock %}
+    {% endblock %}
+<body class="bg-dark">
+<div class="container text-white">
+
+    {% block body %}
+
+
+
+    {% endblock %}
+</div>
+</body>
+
+{% block scripts %}
+
+
+
+{% endblock %}
+{% endblock %}
